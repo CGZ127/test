@@ -1,0 +1,5 @@
+menu "PERPHERALS"
+config PERIPHERALS_ENABLE
+bool "Enable PERIPHERALS"
+default "y"
+endmenu
